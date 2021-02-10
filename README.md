@@ -1,1 +1,1 @@
-This is a Website made for Olvido by Me using the Nicepage Web Builder!, support the project by inviting Olvido: https://discord.com/oauth2/authorize?client_id=780734650804207616&scope=bot&permissions=8
+This is a Website made for Olvido by Me using the Nicepage Web Builder!, support the project by inviting Olvido: http://tiny.cc/Olvido
